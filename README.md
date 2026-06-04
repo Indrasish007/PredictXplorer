@@ -1,7 +1,7 @@
 # 🔮 PredictXplorer (Old Version)
 
 > [!WARNING]  
-> **This repository is the deprecated, older version of PredictXplorer and is no longer actively maintained.**
+> **This repository is the older version of PredictXplorer and is no longer actively maintained.**
 
 ---
 
